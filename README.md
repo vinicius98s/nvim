@@ -18,4 +18,4 @@ Just open the Neovim with `nvim` command, then type `:PlugInstall`
 You might get some error messages when started, a useful command to get them solved is just run `:checkhealth provider`
 
 ### Screenshot:
-<img src="https://github.com/vinicius98s/nvim/blob/master/.github/Screen%20Shot%202021-04-26%20at%2012.01.10.png?raw=true" />
+<img src="https://github.com/vinicius98s/nvim/blob/master/.github/Screenshot%20from%202021-05-25%2016-59-46.png?raw=true" />
